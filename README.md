@@ -1,4 +1,5 @@
 #  Proyek Segmentasi Citra dengan Algoritma Watershed
+# Penerapan Algoritma Watershed untuk Segmentasi dan Pemisahan Objek yang Saling Bersentuhan
 
 Ini adalah proyek demo sederhana dari mata kuliah **Pengolahan Citra Digital**.
 Proyek ini bertujuan untuk mendemonstrasikan salah satu teknik segmentasi citra, yaitu **Algoritma Watershed**, menggunakan library OpenCV (`cv2`) dan Matplotlib di Python.
@@ -63,3 +64,6 @@ Anda dapat menginstal semua *library* yang diperlukan dengan satu perintah mengg
 
 ```bash
 pip install opencv-python numpy matplotlib
+
+
+
